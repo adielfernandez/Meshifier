@@ -1,0 +1,39 @@
+<group>
+	<Draw_Thresh_Pixels>0</Draw_Thresh_Pixels>
+	<Draw_Polyline>0</Draw_Polyline>
+	<Draw_Mesh_as_Wires>0</Draw_Mesh_as_Wires>
+	<Draw_Delaunay>0</Draw_Delaunay>
+<group/>
+	<Draw_ContourFinder>0</Draw_ContourFinder>
+	<Min_blob_area>11</Min_blob_area>
+	<Max_blob_area>100000</Max_blob_area>
+	<Threshold>254</Threshold>
+	<Find_Holes>1</Find_Holes>
+	<Draw_Mesh_Filled>1</Draw_Mesh_Filled>
+	<Draw_Mesh_Wireframe>0</Draw_Mesh_Wireframe>
+	<Outline_Resample_Spacing>20</Outline_Resample_Spacing>
+	<Num_Randomized_Points>681</Num_Randomized_Points>
+<Use_Regular_Grid>0</Use_Regular_Grid>
+	<Regular_Grid_Spacing>6</Regular_Grid_Spacing>
+	<Num_CV_Feature_Points>10</Num_CV_Feature_Points>
+<Draw_Canny_Edges>1</Draw_Canny_Edges>
+	<Canny_Thresh_1>74</Canny_Thresh_1>
+	<Canny_Thresh_2>119</Canny_Thresh_2>
+<Add_Random_Points>0</Add_Random_Points>
+<Add_Canny_Edge_Points>1</Add_Canny_Edge_Points>
+	<Canny_Cull_Resolution>6</Canny_Cull_Resolution>
+<___DRAW_TO_SCREEN/>
+	<Draw_Outline>0</Draw_Outline>
+	<___MESH_COMPOSITION/>
+	<Add_Outline_Pts_to_Mesh>0</Add_Outline_Pts_to_Mesh>
+	<Add_Random_Pts_to_Mesh>0</Add_Random_Pts_to_Mesh>
+	<Add_Canny_Edge_Pts_to_Mesh>0</Add_Canny_Edge_Pts_to_Mesh>
+	<Add_CV_Feature_Pts_to_Mesh>0</Add_CV_Feature_Pts_to_Mesh>
+	<___MESH_CONSTRUCTION/>
+<SIFT_features>3000</SIFT_features>
+	<SIFT_octaves>2</SIFT_octaves>
+	<SIFT_contrast>0.0388</SIFT_contrast>
+	<SIFT_edge>58.4</SIFT_edge>
+	<SIFT_sigma>1.8</SIFT_sigma>
+<Draw_Raw_Image>0</Draw_Raw_Image>
+</group>

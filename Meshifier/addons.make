@@ -1,0 +1,8 @@
+ofxAutoReloadedShader
+ofxCv
+ofxDelaunay
+ofxEasing
+ofxGui
+ofxOpenCv
+ofxSvg
+ofxVectorGraphics
